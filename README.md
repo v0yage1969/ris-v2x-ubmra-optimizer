@@ -6,7 +6,7 @@
 
 > **Paper:** *RIS-Assisted V2X Relay Systems: Upper Bound-guided Minimum RIS Activation Strategy (UB-MRA)*
 >
-> Submitted to SRTP 2025 · University of Leeds
+> Submitted to SRTP 2025 · SWJTU
 
 ---
 
@@ -65,8 +65,8 @@ Only then does the system activate that number of elements and run the actual li
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/RIS-UBMRA.git
-cd RIS-UBMRA
+git clone https://github.com/v0yage1969/ris-v2x-ubmra-optimizer.git
+cd ris-v2x-ubmra-optimizer
 pip install -r requirements.txt
 ```
 
@@ -249,7 +249,7 @@ If you use this code in your research, please cite:
   title   = {RIS-Assisted V2X Relay Systems: UB-MRA Strategy},
   author  = {<Your Names>},
   year    = {2025},
-  url     = {https://github.com/<your-username>/RIS-UBMRA},
-  note    = {SRTP Project, University of Leeds}
+  url     = {https://github.com/v0yage1969/ris-v2x-ubmra-optimizer},
+  note    = {SRTP Project, SWJTU}
 }
 ```
