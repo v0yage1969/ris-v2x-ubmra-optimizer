@@ -1,9 +1,4 @@
 # RIS-UBMRA: Upper Bound-guided Minimum RIS Activation for V2X Relay Systems
-
-<p align="center">
-  <img src="assets/system_model.png" alt="System Model" width="600"/>
-</p>
-
 ---
 
 ## Overview
