@@ -1,0 +1,54 @@
+# ── Python ────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+.venv/
+venv/
+env/
+.env
+
+# ── Jupyter ───────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb
+
+# ── Simulation outputs (regenerated on each run) ──────────
+RIS_UBMRA_results.png
+RIS_UBMRA_position_results.csv
+RIS_UBMRA_summary_results.csv
+RIS_UBMRA_evaluation_stats.csv
+RIS_V2X_UBMRA_position_results.csv
+RIS_V2X_UBMRA_summary_results.csv
+RIS_V2X_UBMRA_evaluation_stats.csv
+*.csv
+*.png
+*.fig
+
+# ── MATLAB ────────────────────────────────────────────────
+*.asv
+*.m~
+slprj/
+*.slxc
+
+# ── OS ────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── IDE ───────────────────────────────────────────────────
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ── PDF (keep only if you want to share it) ───────────────
+# *.pdf
+
+# ── Large binaries ────────────────────────────────────────
+*.mat
