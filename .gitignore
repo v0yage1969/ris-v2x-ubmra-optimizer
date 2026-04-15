@@ -30,11 +30,13 @@ RIS_V2X_UBMRA_evaluation_stats.csv
 *.png
 *.fig
 
-# ── MATLAB ────────────────────────────────────────────────
+# ── MATLAB (not included in this repo) ───────────────────
+*.m
 *.asv
 *.m~
 slprj/
 *.slxc
+matlab/
 
 # ── OS ────────────────────────────────────────────────────
 .DS_Store
