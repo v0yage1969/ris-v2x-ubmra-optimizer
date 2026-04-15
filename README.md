@@ -4,10 +4,6 @@
   <img src="assets/system_model.png" alt="System Model" width="600"/>
 </p>
 
-> **Paper:** *RIS-Assisted V2X Relay Systems: Upper Bound-guided Minimum RIS Activation Strategy (UB-MRA)*
->
-> Submitted to SRTP 2025 · SWJTU
-
 ---
 
 ## Overview
