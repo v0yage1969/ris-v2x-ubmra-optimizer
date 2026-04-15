@@ -200,16 +200,11 @@ The upper bound is **intentionally optimistic**: it sets a stricter pre-selectio
 ## Project Structure
 
 ```
-RIS-UBMRA/
+ris-v2x-ubmra-optimizer/
 ├── ris_ubmra_optimizer.py   # Main optimizer — run this
 ├── requirements.txt          # Python dependencies
 ├── README.md
-├── LICENSE
-└── matlab/                   # Original MATLAB reference scripts
-    ├── RIS_V2X_UBMRA_simulation.m
-    ├── ris_single_car.m
-    ├── ris_manycars.m
-    └── ...
+└── LICENSE
 ```
 
 ---
